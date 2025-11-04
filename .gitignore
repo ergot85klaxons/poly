@@ -1,3 +1,7 @@
 .env
 state.json
 __pycache__/
+# Ignore sensitive files
+.env
+*.env
+__pycache__/
